@@ -15,7 +15,7 @@ textarea{
 }
 
 .jumbotron {
-  background:wheat!important;
+  background:rgba(245, 222, 179, 0.87)!important;
   text-align: center;
   background-color: transparent;
   color: black;
@@ -74,4 +74,7 @@ textarea{
 #clear{
   margin-top: 1rem;
   padding: 10px;
+}
+.event{
+  color: #000000;
 }
