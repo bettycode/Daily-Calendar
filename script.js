@@ -9,7 +9,7 @@ console.log(moment().format('LLLL'));
 
 today();
 
-// collor of the row based on present past and future.
+// color of the row based on present past and future.
 function rowColor(){
     $(".event").each(function(){
         var t = parseInt($(this).attr("id"));
@@ -40,7 +40,7 @@ function store(){
 };
   store();
 
-// add event listener to the save button to setItem text
+// add event listener to the save button. //setItem text
   $(".saveBtn").on("click",function(){
     var schedule = $(this).siblings(".event").val();
     console.log(schedule);
