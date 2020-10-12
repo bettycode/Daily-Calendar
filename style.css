@@ -15,7 +15,7 @@ textarea{
 }
 
 .jumbotron {
-  background:#bdc581d7!important;
+  background:#bdc58171!important;
   text-align: center;
   background-color: transparent;
   color: black;
@@ -63,11 +63,11 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #6D214F;
+  background-color: #5758BB;
   color: white;
 }
 .saveBtn:hover{
-background-color:#B33771;
+background-color:#9980FA;
 }
 
 .saveBtn i:hover {
@@ -75,12 +75,12 @@ background-color:#B33771;
   transition: all .3s ease-in-out;
 }
 #clear{
-  background-color: #6D214F;
+  background-color: #5758BB;
   margin-top: 1rem;
   padding: 10px;
 }
 #clear:hover{
-  background-color:#B33771;
+  background-color:#9980FA;
 }
 .event{
   color: #000000;
