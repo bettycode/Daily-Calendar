@@ -51,6 +51,18 @@ function store(){
     
 });
 
+$("#clear").hover(
+    function() {
+        var $this = $(this); // caching $(this)
+        $this.data('defaultText', $this.text());
+        $this.text("GOOD MORNING!");
+    },
+    function() {
+        var $this = $(this); // caching $(this)
+        $this.text($this.data('defaultText'));
+    }
+);
+
 // event listener to clear the page and the text are.
 $("#clear").on("click",function(){
     window.localStorage.clear();
