@@ -1,7 +1,8 @@
  ## Work-Day-Scheduler
  ```
 
-    In this project,  employee with a busy schedule want to add important events to a daily planner to manage their time effectively.
+    In this project,  employee with a busy schedule want to add important events to a daily
+    planner to manage their time effectively.
 
  ````   
 
@@ -21,4 +22,5 @@
 - When you refresh the page, the saved events persist.
 
 - When you want to clear your calendar for the next day, you will find a button at the top of the calender. It will clear the local storage and the text in the time block.
+
 ```
