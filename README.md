@@ -13,7 +13,8 @@
 
 - When you scroll down you are presented with timeblocks for standard business hours.
 
-- When you view the timeblocks for that day, each timeblock is color coded to indicate whether  it is in the past, present, or future.
+- When you view the timeblocks for that day, each timeblock is color coded to indicate 
+  whether  it is in the past, present, or future.
 
 - When you click into a timeblock you are able to enter an event.
 
@@ -21,6 +22,7 @@
 
 - When you refresh the page, the saved events persist.
 
-- When you want to clear your calendar for the next day, you will find a button at the top of the calender. It will clear the local storage and the text in the time block.
+- When you want to clear your calendar for the next day, you will find a button at the top of the calender. 
+  It will clear the local storage and the text in the time block.
 
-```
+---
