@@ -1,14 +1,14 @@
  ## Work-Day-Scheduler
- ```
+ 
 
     In this project,  an employee with a busy schedule want to add important events to a daily
     planner to manage time effectively.
 
- ````   
+   
 
 
 ## what to expect :-
-````
+
 - When you open the planner the current day is displayed at the top of the calendar.
 
 - When you scroll down you are presented with timeblocks for standard business hours.
@@ -26,4 +26,3 @@
   It will clear the local storage and the text in the time block.
 
 ![Day Planner](Day%20Planner.gif)
-```
