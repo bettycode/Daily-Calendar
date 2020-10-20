@@ -1,8 +1,8 @@
  ## Work-Day-Scheduler
  
 
-    In this project,  an employee with a busy schedule want to add important events to a daily
-    planner to manage time effectively.
+   In this project,  an employee with a busy schedule want to add important events to a daily
+   planner to manage time effectively.
 
    
 
