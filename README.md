@@ -26,3 +26,14 @@
   It will clear the local storage and the text in the time block.
 
 ![Day Planner](Day%20Planner.gif)
+
+### Live link to deployed app:-
+
+( https://bettycode.github.io/Weather-Dashboard/)
+
+
+### List of technologies used:-
+* HTML 
+* CSS
+* Jquery
+* Moments.js
