@@ -24,6 +24,8 @@
 
 - When you want to clear your calendar for the next day, you will find a button at the top of the calender. 
   It will clear the local storage and the text in the time block.
+  
+## Demo:-
 
 ![Day Planner](Day%20Planner.gif)
 
