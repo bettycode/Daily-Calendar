@@ -29,12 +29,12 @@
 
 ![Day Planner](Day%20Planner.gif)
 
-### Live link to deployed app:-
+## Live link to deployed app:-
 
 ( https://bettycode.github.io/Weather-Dashboard/)
 
 
-### List of technologies used:-
+## List of technologies used:-
 * HTML 
 * CSS
 * Jquery
